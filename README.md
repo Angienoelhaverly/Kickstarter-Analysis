@@ -18,6 +18,7 @@ Campaigns that saw the highest levels of failures kicked off in October and thro
 Logistically this makes sense, as it is likely that the general population tends to be very busy in the fall months leading up to holidays and likely don't put a lot of time or concern into booking and attending theater productions. Theater productions likely see heights of activity during summer and vacation months when families have more time for freedom, the weather is nicer, and they aren't looking to save their money away for the holidays and gifts, etc. 
 When examining campaigns that failed, the numbers are pretty steady across the year and there doesn't seem to be a strong trend line one way or the other in favor of a certain time of year for when a campaign will decide to cancel. 
 
+
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
