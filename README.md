@@ -3,7 +3,9 @@ Perform an analysis on Kickstarter data to uncover trends that make crowdfunding
 
 ## Overview of Project
 ### Purpose
-Excel is a widely used data analytical tool because of its flexibility and ease of use as well as highly versatile. Benefits of excel include the ability to use advanced formulas, create interactive charts with graphs and pivot charts and organize data by using filters and conditional formatting. Formulas and filters allow us to visualize data in order to reveal trends. With Excel we can: 
+Excel is a widely used data analytical tool because of its flexibility and ease of use as well as highly versatile. Benefits of excel include the ability to use advanced formulas, create interactive charts with graphs and pivot charts and organize data by using filters and conditional formatting. Formulas and filters allow us to visualize data in order to reveal trends. 
+
+With Excel we can: 
 * Import data into a table for analysis.
 * Apply filters, conditional formatting, and formulas.
 * Generate and interpret pivot tables.
