@@ -3,6 +3,8 @@ Performing an analysis on Kickstarter data to uncover trends
 
 ## Overview of Project
 ### Purpose
+Excel is a widely used data analytical tool because of its flexibility and ease of use as well as highly versatile. Benefits of excel include the ability to use advanced formulas, create interactive charts with graphs and pivot charts and organize data by using filters and conditional formatting. 
+
 The purpose of this analysis is to examine trends within the kickstarter campaign industry, specifically for theaters and plays. 
 There are a few ways in which we will examine these trends in this analysis. 
 One is to evaluate and compare how well campaigns performed based on the time of year when they were launched. 
