@@ -18,7 +18,11 @@ With Excel we can:
 
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
-In examining Figure 1: Theater Outcome versus Launch, we can view categories of outcomes related to time of year the campaigns lauched. Looking at the chart below, it appears that most successful theater campaigns occured when they were kickstarted in Springtime, especially May. 
+The analysis below was performed by creating a pivot table from the main Kickstarter Data Sheet. A pivot table is a helpful analysis for this data because it summarizes it in an easily viewable filtered way. 
+
+The data became filtered down to focus only on theater campaigns at different times of year. Launch dates became the row while outcomes became the column and the number of outcomes was treated as a value. 
+
+In examining **Figure 1: Theater Outcome versus Launch**, we can view categories of outcomes related to time of year the campaigns lauched. Looking at the chart below, it appears that most successful theater campaigns occured when they were kickstarted in Springtime, especially May. 
 
 Logistically this makes sense, as it is likely that the general population tends to be very busy in the fall months leading up to holidays and likely don't put a lot of time or concern into booking and attending theater productions. Theater productions likely see heights of activity during summer and vacation months when families have more time for freedom, the weather is nicer, and they aren't looking to save their money away for the holidays and gifts, etc. 
 
@@ -27,17 +31,11 @@ When examining campaigns that failed, the numbers are pretty steady across the y
 ![Theater Outcomes versus Launch Date](Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-In examining Figure 2 Theater Outcomes versus Goals, we are examining percentage of success to failure based on various monetary goal ranges (by the thousands). In looking at the chart below, it appears that the plays that turned out to be the most successful, either had extremely feasible goals (and therefore likely appealed to the general masses who will select based on budgetary means), or they had fairly lofty goals between 35,000 to 45,000. 
+In examining **Figure 2: Theater Outcomes versus Goals**, we examine percentage of success to failure based on various monetary goal ranges (by the thousands). In looking at the chart below, it appears that the plays that turned out to be the most successful, either had extremely feasible goals (and therefore likely appealed to the general masses who will select based on budgetary means), or they had fairly lofty goals between 35,000 to 45,000. 
 
 Most campaigns that had goals over 45,000 did not fair so well. In comparing this trendline to percentage of campaigns failed, almost the opposite can be said, meaning that as campaigns start out with more reasonable income goals, the percentage failing is rather low and steadily increases as the campaign goals increase. There are some outliers however in the ranges 35,000 to 45,000 that cannot really be analyzed with this particular data. 
 
 ![Theater Outcomes versus Income Goals](Outcomes_vs_Goals.png)
-
-### Challenges and Difficulties Encountered
-#### Deliverable 1 Challenges
-This analysis was performed by creating a pivot table from the main Kickstarter Data Sheet. A pivot table is a helpful analysis for this data because it summarizes it in an easily viewable filtered way. 
-
-The data became filtered down to focus only on theater campaigns at different times of year. Launch dates became the row while outcomes became the column and the number of outcomes was treated as a value. 
 
 ## Results
 
