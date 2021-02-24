@@ -16,10 +16,6 @@ With Excel we can:
 
 The purpose of this analysis is to examine trends within the kickstarter campaign industry, specifically for theaters and plays. An up and coming playwright wants to start a crowd funding campaign to help fund her play. She's estimating a budget of over $10,000 but wants to first see if that is an accurate estimate before jumping in to her first crowdfunding campaing. We can use excel to organize, sort, and analyze data to help her get a better sense of the accuracy of her project's estimate. We will analyze to see if there are specific factors that make a campaign successful. Using excel to analyze this data will help our client gather a better understanding of campaigns from start to finish to better plan her own campaign. 
 
-There are a few ways in which we will examine these trends in this analysis. 
-One is to evaluate and compare how well campaigns performed based on the time of year when they were launched. 
-A second evaluation will examine percentages that were successful versus those that failed or canceled in comparison to initial financial goals set. 
-Two questions when examining this data will be to see if any trends exist as to what time of year a campaign launches as to how successful it may be and the other question will ask if there is a trend in how well a campaign performs compared to how lofty of a revenue goal it set. 
 
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
@@ -46,17 +42,14 @@ While I did not encounter any challenges in the first dataset, the second Figure
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
 Two conclusions that I can draw about the Outcomes based on Launch Date are that: 
 1) Time of year matters for launching a campaign, especially in regards to theatrical plays. 
 2) Campaigns that see the most success tend to start in early springtime, peaking in May and slowy wind down to seeing their lowest levels in wintertime. This makes sense as plays and theaters most often occur in summertime and so they will generate the majority of their interest in the months leading up to summer. Campaigns also saw higher levels of failure in the spring and summer months, which could be due to just the higher number of campaigns kickstarting then anyways. Campaigns also had higher failure rates in October and fall. 
 
-- What can you conclude about the Outcomes based on Goals?
+Outcomes based on Goals: 
 After analyzing the dataset, we can conclude that campaigns for theatrical plays will have a corresponding correlation with the level of monetary goals set. Campaigns that had more achievable goals tended to have higher success rates while the more increasingly lofty the moentary goals became, the higher the level of failures came and the lower the number of successful campaigns. Therefore we can conclude there is generally a correspending negative relationship between financial goals set and the success of the campaign. 
 
-- What are some limitations of this dataset?: 
+Limitations of this dataset: 
 There are actually quite a few limitations to this dataset. For example, when I saw the outliers in Figure 2 where the success went up between the finanacial ranges of 30,000 to 45,000 and then back down after, I couldn't help but think that we were missing some sort of demographic and possibly geographic data to explain this occurrance. It would be interesting to filter down even further by city, by type of plays (comedies, tragedies), time of year, and then demographic data of those purchasing tickets. Limitations of the first data set might be the price of the tickets, again the geographic location like the data, the type of play, the age of the ticket purchasers, and also the type of play. 
 There is also a limitation of the data analysis that we are performing. For example, even though we can see general trend lines in the line charts, we can't actually yet perform a statistical analysis to determine how strong a correlation of the dataset we might have. For example, while we can see that it seems there is a negative correlation between financial goals set and success of a campaign, we don't yet have an actual statistical measure to say how truly strong that correlation is or not. Further analysis like a regression analysis could be used if we can plot the data on a regression line. 
 
-- What are some other possible tables and/or graphs that we could create?: 
-Other possible tables and graphs that we could create might be pivot charts that examine pledged amounts with goals set and number of backers. This data would also be interesting to compare with percentage funded and average donation. Also how long a compaign was on open for (it's launch date versus it's deadline date) would be interesting to see how that correlated with outcome and potential success or failure. Country compared with average donation, monetary goal set, and actual pledged amount would be interesting to see if different countries have higher monetary amounts collected. For example, if you create a pivot chart that views success of campaigns compared with country, you can see that the two countries that have the most success with theater campaigns are the US and Great Britain. You could also chart percent funded, or amount pledged in comparison to financial goal set and see if the price set as the goal had any relationship with the amount or percentage that actually came through.
