@@ -5,6 +5,8 @@ Perform an analysis on Kickstarter data to uncover trends that make crowdfunding
 ### Purpose
 Excel is a widely used data analytical tool because of its flexibility and ease of use as well as highly versatile. Benefits of excel include the ability to use advanced formulas, create interactive charts with graphs and pivot charts and organize data by using filters and conditional formatting. Formulas and filters allow us to visualize data in order to reveal trends. 
 
+The purpose of this analysis is to examine trends within the kickstarter campaign industry, specifically for theaters and plays. An up and coming playwright wants to start a crowd funding campaign to help fund her play. She's estimating a budget of over $10,000 but wants to first see if that is an accurate estimate before jumping in to her first crowdfunding campaing. We can use excel to organize, sort, and analyze data to help her get a better sense of the accuracy of her project's estimate. We will analyze to see if there are specific factors that make a campaign successful. Using excel to analyze this data will help our client gather a better understanding of campaigns from start to finish to better plan her own campaign. 
+
 With Excel we can: 
 * Import data into a table for analysis.
 * Apply filters, conditional formatting, and formulas.
@@ -13,9 +15,6 @@ With Excel we can:
 * Characterize data to identify outliers in datasets.
 * Perform an Excel analysis with visualizations.
 * Interpret common Excel visualizations
-
-The purpose of this analysis is to examine trends within the kickstarter campaign industry, specifically for theaters and plays. An up and coming playwright wants to start a crowd funding campaign to help fund her play. She's estimating a budget of over $10,000 but wants to first see if that is an accurate estimate before jumping in to her first crowdfunding campaing. We can use excel to organize, sort, and analyze data to help her get a better sense of the accuracy of her project's estimate. We will analyze to see if there are specific factors that make a campaign successful. Using excel to analyze this data will help our client gather a better understanding of campaigns from start to finish to better plan her own campaign. 
-
 
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
