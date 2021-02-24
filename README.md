@@ -1,5 +1,5 @@
 # An analysis of kickstarter campaigns
-Performing an analysis on Kickstarter data to uncover trends
+Perform an analysis on Kickstarter data to uncover trends that make crowdfunding campaigns successful.
 
 ## Overview of Project
 ### Purpose
@@ -12,7 +12,8 @@ Excel is a widely used data analytical tool because of its flexibility and ease 
 * Perform an Excel analysis with visualizations.
 * Interpret common Excel visualizations
 
-The purpose of this analysis is to examine trends within the kickstarter campaign industry, specifically for theaters and plays. 
+The purpose of this analysis is to examine trends within the kickstarter campaign industry, specifically for theaters and plays. An up and coming playwright wants to start a crowd funding campaign to help fund her play. She's estimating a budget of over $10,000 but wants to first see if that is an accurate estimate before jumping in to her first crowdfunding campaing. We can use excel to organize, sort, and analyze data to help her get a better sense of the accuracy of her project's estimate. We will analyze to see if there are specific factors that make a campaign successful. Using excel to analyze this data will help our client gather a better understanding of campaigns from start to finish to better plan her own campaign. 
+
 There are a few ways in which we will examine these trends in this analysis. 
 One is to evaluate and compare how well campaigns performed based on the time of year when they were launched. 
 A second evaluation will examine percentages that were successful versus those that failed or canceled in comparison to initial financial goals set. 
