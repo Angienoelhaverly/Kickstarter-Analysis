@@ -37,10 +37,7 @@ Most campaigns that had goals over 45,000 did not fair so well. In comparing thi
 #### Deliverable 1 Challenges
 This analysis was performed by creating a pivot table from the main Kickstarter Data Sheet. A pivot table is a helpful analysis for this data because it summarizes it in an easily viewable filtered way. 
 
-The data became filtered down to focus only on theater campaigns at different times of year. Launch dates became the row while outcomes became the column and the number of outcomes was treated as a value. While I had no issues filtering this data, setting up the pivot chart, and creating a graph that easily depicts the data, I did notice that there were a few campaigns who were still acting as a live. These few live campaigns possibly could skew the data as they can't quite be considered relevant yet, as they have not yet either failed or been successful. P
-
-#### Deliverable 2 Challenges
-While I did not encounter any challenges in the first dataset, the second Figure and charting with the COUNTIF() Function, was quite a learning curve for me. It took some time and was rather tedious to first create all the monetary ranges and make sure that I entered in all the numbers correctly. Then it took me a while to figure out that I needed to place a $ sign in front of the excel range that was being classified so that the formula could be transferred on correctly. It was also extremely tedious to make sure that each column had it's category of "successful", "failed", or "canceled" correctly inputted in the formula, as well as make sure we were filtering down to "plays" for all the subcategories. Making sure all the <= or >= were inputted properly was also difficult. Once the data was all reflected and a line chart was plotted, it was much easier to see the benefit of this particular function. By summing the total projects from each category, we were then able to view the percentage of each that was successful versus failed or canceled based on the goals that were set. This is a lot of data to manipulate and analyze and a handy excel formula made it all possible. 
+The data became filtered down to focus only on theater campaigns at different times of year. Launch dates became the row while outcomes became the column and the number of outcomes was treated as a value. 
 
 ## Results
 
