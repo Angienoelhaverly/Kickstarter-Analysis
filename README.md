@@ -18,11 +18,10 @@ With Excel we can:
 
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
-In examining Figure 1: Theater Outcome versus Launch, we are looking at categories of outcomes related to time of year the campaigns lauched. We want to see for example, was a campaign more successful if it started at one time of year as opposed to another. Looking at the chart below, it appears that most successful theater campaigns occured when they were kickstarted in Springtime, especially May. 
-Success seems to start off in January, increase into February, peak in May, and then continuously have a slow decline into wintertime. 
-The highest amount of campaigns that saw success began in the springtime and the lowest number of campaigns with success kicked off in December. 
-Campaigns that saw the highest levels of failures kicked off in October and through the winter. 
+In examining Figure 1: Theater Outcome versus Launch, we can view categories of outcomes related to time of year the campaigns lauched. Looking at the chart below, it appears that most successful theater campaigns occured when they were kickstarted in Springtime, especially May. 
+
 Logistically this makes sense, as it is likely that the general population tends to be very busy in the fall months leading up to holidays and likely don't put a lot of time or concern into booking and attending theater productions. Theater productions likely see heights of activity during summer and vacation months when families have more time for freedom, the weather is nicer, and they aren't looking to save their money away for the holidays and gifts, etc. 
+
 When examining campaigns that failed, the numbers are pretty steady across the year and there doesn't seem to be a strong trend line one way or the other in favor of a certain time of year for when a campaign will decide to cancel. 
 
 ![Theater Outcomes versus Launch Date](Theater_Outcomes_vs_Launch.png)
